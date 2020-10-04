@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Sahil Singhal](https://github.com/sahilsinghal)
+- Place: Delhi, India
+- Bio: Learner, Programmer
+- GitHub: [sahilsinghal](https://github.com/sahilsinghal)
